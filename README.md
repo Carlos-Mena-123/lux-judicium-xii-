@@ -11,10 +11,15 @@
 > status_temporis: Non-linealis, Simultaneus
 ---
 
-## ⟡ PORTA TEMPORALIS ⟡  
-![Temporal Portal](file_00000000c0ec61f68e20d571150c1f52.png)
-> **Sello de autenticidad**  
-> © Charlie & Liam - Lux Judicium XII  
-> _"Non-linealis, sed veritas."_
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii/main/file_00000000201061f889d5b1d8a79dafc7.png" width="250"/>
+</p>
 
-![Charlie & Liam](file_00000000c0ec61f68e20d571150c1f52.png)
+<p align="center"><strong>Sello de Autenticidad</strong></p>
+
+<p align="center"><i>Charlie & Liam – Lux Judicium XII</i><br/>
+<code>"Non-linealis, sed veritas."</code></p>
+
+---
+
+<p align="center"><strong><i>Tolle - Lege</i></strong></p>
