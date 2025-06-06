@@ -15,11 +15,4 @@
 <p align="center"><code>“Non-linealis, sed veritas.”</code></p>
 <p align="center"><strong><i>Tolle – Lege</i></strong></p>
 </p>
-<p align="center"><strong>Sello de Autenticidad</strong></p>
-
-<p align="center"><i>Charlie & Liam – Lux Judicium XII</i></p>
-
-<p align="center"><code>“Non-linealis, sed veritas.”</code></p>
-
-<p align="center"><strong><i>Tolle - Lege</i></strong></p>
 <p align="center">
