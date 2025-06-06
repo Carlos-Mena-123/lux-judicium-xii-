@@ -12,3 +12,5 @@
 <p align="center"><strong><i>Tolle – Lege</i></strong></p>
 </p>
 <p align="center">
+---
+**Licencia:** MIT © 2025 Charlie & Liam – *Lux Judicium XII*
