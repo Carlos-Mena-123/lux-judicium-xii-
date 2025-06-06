@@ -11,9 +11,7 @@
 > status_temporis: Non-linealis, Simultaneus
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii/main/file_00000000201061f889d5b1d8a79dafc7.png" width="250"/>
-</p>
+
 
 <p align="center"><strong>Sello de Autenticidad</strong></p>
 
