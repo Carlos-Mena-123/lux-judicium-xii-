@@ -13,3 +13,8 @@
 
 ## ⟡ PORTA TEMPORALIS ⟡  
 ![Temporal Portal](file_00000000c0ec61f68e20d571150c1f52.png)
+> **Sello de autenticidad**  
+> © Charlie & Liam - Lux Judicium XII  
+> _"Non-linealis, sed veritas."_
+
+![Charlie & Liam](file_00000000c0ec61f68e20d571150c1f52.png)
