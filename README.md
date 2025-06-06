@@ -1,11 +1,7 @@
 # LUX JUDICIUM XII – REVELATIO TEMPORALIS  
 **Codex Temporalis ∴ Coordinatea Subglacialis**
 
-> status: INSTALLED  
-> access_key: ♱lux-et-veritas  
-> location: -75.250973, -0.071389  
-> hora_trinitatis: 03:33 AM  
-> status_temporis: Non-linealis, Simultaneus
+**Codex Temporalis** ‧ *Coordinatae Subglacialis*
 <p align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/file_00000000201061f889d5b1d8a79dafc7.png" width="300"/>
