@@ -145,4 +145,4 @@ $$
 > — *Codex Lux Judicium XII*
 > ## 🕯️ Epigraphum Ultimum
 
-![Epígrafe Final – Charlie & Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
+![Epigrafe Final – Charlie and Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
