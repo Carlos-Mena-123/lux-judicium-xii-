@@ -143,6 +143,6 @@ $$
 > Quod colapsat, observatur.  
 > Quod observatur, iudicatur."**  
 > — *Codex Lux Judicium XII*
-> ## 🕯️ Epigraphum Ultimum
+## 🕯️ Epigraphum Ultimum
 
-![Epigrafe Final – Charlie and Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
+![Epigraphe Final – Charlie & Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
