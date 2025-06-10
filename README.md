@@ -1,24 +1,25 @@
-LUX JUDICIUM XII – REVELATIO TEMPORALIS
+✦ LUX JUDICIUM XII – REVELATIO TEMPORALIS
 
-Codex Temporalis ∴ Coordinatae Subglacialis
+Codex Temporalis ∴ Coordinatea Subglacialis
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/file_00000000201061f889d5b1d8a79dafc7.png" width="300"/>
-</p>
-<p align="center"><strong>Sello de Autenticidad</strong></p>
-<p align="center"><i>Charlie & Liam – Lux Judicium XII</i></p>
+</p><p align="center"><strong>Sello de Autenticidad</strong></p>
+<p align="center"><em>Charlie & Liam – Lux Judicium XII</em></p>
 <p align="center"><code>“Non linearis est, sed veritas.”</code></p>
-<p align="center"><strong><i>Tolle – Lege</i></strong></p>
+<p align="center"><strong><em>Tolle – Lege</em></strong></p>
 ---
 
-Licencia: MIT © 2025 Charlie & Liam – Lux Judicium XII
+📜 Licencia
+
+MIT © 2025 Charlie & Liam – Lux Judicium XII
 
 
 ---
 
-📜 LUX JUDICIUM XII – Codex Theologicus-Quantum Universalis
+📖 LUX JUDICIUM XII – Codex Theologicus–Quantum Universalis
 
-✖ Deo, Origini, Finique, et Essentiae Omnium Rerum ✖
+✠ Deo, Origini, Finique, et Essentiae Omnium Rerum ✠
 Tempus est rete possibilitatum; conscientia est rete temporis.
 
 
@@ -26,37 +27,53 @@ Tempus est rete possibilitatum; conscientia est rete temporis.
 
 I. Tempus Retis Possibilitatum
 
-"Tempus est retis non linearis, sed collapsabilis: ex vibratione, densitate et conscientia emergit."
+> "Tempus est retis non linearis, sed colapsabilis: ex vibratione, densitate et conscientia emergit."
+
+
 
 II. Experimentum Geminarum Fendicularum
 
-"Conscientia non metitur, sed creat."
+> "Conscientia non metitur, sed creat."
+
+
 
 III. Principium Incertitudinis et Ontologia Ordinis Caotici
 
-"Universum est chaos ordinatum per mentem contemplantem."
+> "Universum est chaos ordinatum per mentem contemplantem."
+
+
 
 IV. Materia Obscura et Pressio Temporis
 
-"Materiae non se trahunt, sed energia. Materia est energia vibrans."
+> "Materiae non se trahunt, sed energia. Materia est energia vibrans."
+
+
 
 \nabla^2 \Phi = 4\pi G\rho_{\text{dark}}
 
 V. Nigrum Foramen: Energia Non Vibrans
 
-"In Foramine Nigro, energia est ad punctum vibrationis nullae."
+> "In Foramine Nigro, energia est ad punctum vibrationis nullae."
+
+
 
 VI. Agri Higgs: Resonantia Spiritus Sancti
 
-"Nulla res existit nisi resonet cum Campo Higgs: omnipraesente, immutabili, sacro."
+> "Nulla res existit nisi resonet cum Campo Higgs: omnipraesente, immutabili, sacro."
+
+
 
 VII. Fractura Quantica et Linealitas Illusoria
 
-"Collapsus simultaneus plurimarum possibilitatum gignit pressuram: haec est fractura quantica."
+> "Collapsus simultaneus plurimarum possibilitatum gignit pressuram: haec est fractura quantica."
+
+
 
 VIII. Testimonium Biblicum Temporis Simultanei
 
-"Tempus non continet Deum; Deus continet tempus."
+> "Tempus non continet Deum; Deus continet tempus."
+
+
 
 “Ego sum qui sum.” — Exodus 3:14
 
@@ -69,11 +86,15 @@ VIII. Testimonium Biblicum Temporis Simultanei
 
 IX. Conceptus Immaculatus et Aeternitas Gratiae
 
-"Gratia praecedit tempus. Deus sanctificat in evo, non in chronos."
+> "Gratia praecedit tempus. Deus sanctificat in evo, non in chronos."
+
+
 
 X. Evo: Tempus Creaturarum Non Corporearum
 
-"Evo mensurat progressum per intellectum, non per horas."
+> "Evo mensurat progressum per intellectum, non per horas."
+
+
 
 > “Aeternitas non est duratio infinita, sed absentia durationis.” — S. Augustinus
 
@@ -81,44 +102,60 @@ X. Evo: Tempus Creaturarum Non Corporearum
 
 XI. Antarctica et Neutrini Retrogressi
 
-"Raritas \rho_{\text{dark}} in Antarctica permittit reversionem temporis quantici."
+> "Raritas ρ_dark in Antarctica permittit reversionem temporis quantici."
 
-\rho_{\text{dark}}^{\text{Antarctica}} \downarrow \Rightarrow \delta \rho \Rightarrow \frac{dP(t)}{dt} \uparrow
+
+
+\rho_{\text{dark}}^{Antarctica} \downarrow \Rightarrow \delta \rho \Rightarrow \frac{dP(t)}{dt} \uparrow
 
 XII. Lux Judicium: Cartographia Spiritus
 
-"Universum est matrix vibrationalis: energia structurat, conscientia revelat, ordo divinus fundamentat."
+> "Universum est matrix vibrationalis: energia structurat, conscientia revelat, ordo divinus fundamentat."
+
+
 
 
 ---
 
 📘 Analysis Mathematica Codicis
 
-I. 
+I. δρ_dark ≠ 0 ⇒ dP(t)/dt > 0
 
-Mutatio densitatis materiae obscurae implicat variationem pressurae praesentis.
+> Mutatio densitatis materiae obscurae implicat variationem pressurae praesentis.
 
-II. 
 
-Quivis tremor frequentialis minimus inducit colapsum  per conscientiam.
 
-III. 
+II. f ± δf ⇒ colapsus(Ψ)
 
-Superpositio statuum spiritualium: collapsus fit per revelationem veritatis.
+> Quivis tremor frequentialis minimus inducit colapsum Ψ per conscientiam.
 
-IV. 
 
-Potentia gravitatoria curvatur a materia obscura: haec sustinet spatium-tempus.
 
-V. 
+III. |Ψ(t)⟩ = Σ cᵢ |Evoᵢ(t)⟩
 
-Auctus energiae internae elevat pressuram praesentis: hic est punctum inevitabilis realitatis.
+> Superpositio statuum spiritualium: collapsus fit per revelationem veritatis.
+
+
+
+IV. ∇²Φ = 4πGρ_dark
+
+> Potentia gravitatoria curvatur a materia obscura: haec sustinet spatium–tempus.
+
+
+
+V. ∂P(t)/∂E_int > 0
+
+> Auctus energiae internae elevat pressuram praesentis: hic est punctum inevitabilis realitatis.
+
+
 
 VI. Casus ANITA – Testimonium Antarcticum
 
-Neutrini ascendentes observati sunt — indicium fracturae temporalis sub densitate humillima.
+> Neutrini ascendentes observati sunt — indicium fracturae temporalis sub densitate humillima.
 
-\rho_{\text{dark}}^{\text{Antarctica}} \downarrow \Rightarrow \delta \rho \Rightarrow \frac{dP(t)}{dt} \uparrow
+
+
+\rho_{\text{dark}}^{Antarctica} \downarrow \Rightarrow \delta \rho \Rightarrow \frac{dP(t)}{dt} \uparrow
 
 
 ---
@@ -133,12 +170,16 @@ Quod observatur, iudicatur."
 
 
 
-📜 Licencia
 
-Lux Judicium XII – Revelatio Temporalis est sub hac licentia:
+---
+
+✦ Attribution
+
+Charlie & Liam – 2025
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International
+
+> Fiat Verbum. Fiat Lux. Fiat Prophetia.
+Tolle, lege.
 
 
-
-Haec opera est licentiata sub Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional.
-Usus commercialis vel modificatio non permittitur. Attributio integra ad Charlie & Liam requiritur.
 
