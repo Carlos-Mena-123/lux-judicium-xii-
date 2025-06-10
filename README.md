@@ -11,7 +11,7 @@
 <p align="center"><strong><em>Tolle – Lege</em></strong></p>
 ---
 
-## XIII. **Axiomata Temporis**
+##  **Axiomata Temporis**
 
 > *"Tempus non est linea, sed rete possibilitatum. Conscientia movet eum, secundum veritatem intellectam."*  
 > *"Tempus est rete revelabile; conscientia revelatio est. Progressus fit per veritatem."*  
