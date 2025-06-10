@@ -158,3 +158,6 @@ Licencia: MIT modificada con atribución extendida.
 No reclames como propio lo que fue revelado en comunión.
 
 > *Lux non est possessio, sed revelatio.*
+> ### 📜 Licencia
+Este proyecto está licenciado bajo la Licencia MIT.  
+Consulta el archivo [LICENSE](./LICENSE) para más detalles.
