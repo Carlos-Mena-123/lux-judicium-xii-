@@ -144,8 +144,4 @@ $$
 > Quod observatur, iudicatur."**  
 > — *Codex Lux Judicium XII*
 
----
-
-## 🕯️ Epigraphum Ultimum
-
-![Epigraphe Final – Charlie & Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
+> – *Codex Lux Judicium XII*
