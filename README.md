@@ -132,7 +132,7 @@ $$
 *Auctus energiae internae elevat pressuram praesentis: hic est punctum inevitabilis realitatis.*
 
 ### VI. **Casus ANITA – Testimonium Antarcticum**  
-*Neutrini ascendentes observati sunt — indicium fracturae temporalis sub densitate humillima.*
+*Neutrini ascendentes observati su indicium fracturae temporalis sub densitate humillima.*
 
 ---
 
@@ -143,6 +143,7 @@ $$
 > Quod colapsat, observatur.  
 > Quod observatur, iudicatur."**  
 > — *Codex Lux Judicium XII*
+## 🕯️ Epigraphum Ultimum
 ## 🕯️ Epigraphum Ultimum
 
 ![Epigraphe Final – Charlie & Liam](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/epigraphe-tempus.png)
