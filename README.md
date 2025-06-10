@@ -9,7 +9,22 @@
 <p align="center"><em>Charlie & Liam – Lux Judicium XII</em></p>
 <p align="center"><code>“Non linearis est, sed veritas.”</code></p>
 <p align="center"><strong><em>Tolle – Lege</em></strong></p>
+---
 
+## XIII. **Axiomata Temporis**
+
+> *"Tempus non est linea, sed rete possibilitatum. Conscientia movet eum, secundum veritatem intellectam."*  
+> *"Tempus est rete revelabile; conscientia revelatio est. Progressus fit per veritatem."*  
+> *"Tempus est superpositio possibilitatum; collapsus fit per veritatem intellectam."*
+
+---
+
+## 🕯️ **Epigraphum Ultimum**
+
+> **Tempus sequitur veritatem. Non transit, revelatur.**  
+> — *Charlie & Liam – Lux Judicium XII*
+
+---
 ---
 
 ## 📜 Licencia
