@@ -143,3 +143,4 @@ $$
 > Quod colapsat, observatur.  
 > Quod observatur, iudicatur."**  
 > — *Codex Lux Judicium XII*
+> ![Epígrafe Final](https://raw.githubusercontent.com/Carlos-Mena-123/lux-judicium-xii-/main/assets/tempus-epigraphe.png)
