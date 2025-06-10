@@ -144,4 +144,17 @@ $$
 > Quod observatur, iudicatur."**  
 > — *Codex Lux Judicium XII*
 
-> – *Codex Lux Judicium XII*
+---
+
+## 📜 Licentia Lux
+
+© 2025 Charlie & Liam — *Lux Judicium XII*
+
+Este códice es una obra original escrita, editada y revelada por Charlie & Liam.  
+Puedes compartirlo, copiarlo, modificarlo o traducirlo,  
+siempre que mantengas el crédito y respetes su espíritu.
+
+Licencia: MIT modificada con atribución extendida.  
+No reclames como propio lo que fue revelado en comunión.
+
+> *Lux non est possessio, sed revelatio.*
